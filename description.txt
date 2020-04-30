@@ -1,2 +1,0 @@
-
-This is my frirst prodject using Jango Framework =)
